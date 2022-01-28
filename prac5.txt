@@ -1,0 +1,27 @@
+Question 1(a): 
+<PERSONA>, <TITLE>, <SPEECH>, <LINE>, <SPEAKER> 
+
+Question 1(b):
+The difference in the way the Personnae are being stored is in the hamlet.xml file,
+the persona tags are open with the descriotion of said persona within the same tag 
+whereas in the macbeth.xml & r_and_j.xml files, the persona's are grouped within
+<PGROUP> tags and then they have individual <PERSONA> tags for each character name
+and a <GRPDESCR> tag to describe the relationship. 
+
+Question 2(a):
+/PLAY/ACT/SCENE/SPEECH/LINE
+The issue with using using a simple XPath retrieval is that the <STAGEDIR> tags will 
+still be shown on the query results. 
+
+Question 2(b):
+
+Question 3(a):
+
+Question 3(b):
+
+Question 4(a):
+
+Question 4(b):
+
+Question 4(c):
+
